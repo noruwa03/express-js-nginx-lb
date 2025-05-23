@@ -44,7 +44,7 @@ The Express.js API uses the following key dependencies:
 
 2. **Navigate to the project directory:**
    ```bash
-   cd express-js-nginx-lb
+   cd express-js-nginx-lb/app
    ```
 
 3. **Install dependencies:**
